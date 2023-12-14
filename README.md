@@ -15,7 +15,7 @@ This Spotify clone project demonstrates fundamental skills in web development, i
 ## Features
 
 1. The project is responsive, adapting to different screen sizes.
-2.Users can dynamically add, play, pause, and seek songs in their playlists, providing an interactive and personalized music experience. 🎶🔀⏯️
+2. Users can dynamically add, play, pause, and seek songs in their playlists, providing an interactive and personalized music experience. 🎶🔀⏯️
 
 
 
